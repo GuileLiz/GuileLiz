@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Engr. Guile Liz</h1>
-<h3 align="center">Crafting My Career One Line of Code at a Time</h3>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=guileliz&label=Profile%20views&color=0e75b6&style=flat" alt="guileliz" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=guileliz&label=Profile%20views&color=0e75b6&style=flat" alt="guileliz" /> </p>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Engr. Guile Liz</h1>
+<h3 align="center">Crafting My Career One Line of Code at a Time</h3>
+</div>
+
 
 
 </p>
@@ -16,11 +18,11 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">👨🏽‍💻 Tech Stack</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
@@ -43,19 +45,21 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
 </div>
+<br>
+<div align="center"> 
+  <img  style="height: 200px; display: inline-block; margin-left: auto; margin-right: auto; width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuileLiz&theme=github_dark&layout=compact&hide_border=true"  />
+</div>
 
-###
 
-## Github Stats  
+
+<h2 align="left">🔥 Github Stats </h2>
 
 <!--
 <img style="height: 200px; display: inline-block; margin-left: auto; margin-right: auto; width: 100%;" src="https://github-readme-stats.vercel.app/api?username=GuileLiz&show_icons=true&bg_color=FFFFFF" />
 -->
-<img  style="height: 200px; display: inline-block; margin-left: auto; margin-right: auto; width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuileLiz&layout=compact"  />
-
-
-
-
+<div align="center"> 
+  <img src="https://streak-stats.demolab.com?user=GuileLiz&locale=en&mode=daily&theme=github_dark&layout=compact&hide_border=true" height="220" alt="streak graph"  /> 
+</div>
 
 
 
