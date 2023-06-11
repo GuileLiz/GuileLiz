@@ -17,9 +17,9 @@
 ## Github Stats  
 
 
- <img style="height: 200px;" src="https://github-readme-stats.vercel.app/api?username=GuileLiz&show_icons=true&bg_color=FFFFFF" align="left"/>
+ <img style="height: 200px; display: inline-block; margin-left: auto; margin-right: auto; width: 100%;" src="https://github-readme-stats.vercel.app/api?username=GuileLiz&show_icons=true&bg_color=FFFFFF" />
 
-<img  style="height: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuileLiz&layout=compact" align="left" />
+<img  style="height: 200px; display: inline-block; margin-left: auto; margin-right: auto; width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuileLiz&layout=compact"  />
 
 
 
