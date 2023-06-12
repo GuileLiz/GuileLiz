@@ -61,8 +61,13 @@
   <img src="https://streak-stats.demolab.com?user=GuileLiz&locale=en&mode=daily&theme=github_dark&layout=compact&hide_border=true" height="220" alt="streak graph"  /> 
 </div>
 
-
-
+<h2 align="left">🌱 Personal Project Collection </h2> 
+<h3>
+  <a href="https://github.com/GuileLiz/Coffee_Machine-Java/blob/master/Coffee%20Machine%20(Java)/task/src/machine/CoffeeMachine.java">Coffee Machine Simulator </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+</h3>
+<p>The machine works with typical products: coffee, milk, sugar, and plastic cups; if it runs out of something, it shows a notification. You can get three types of coffee: espresso, cappuccino and latte. Since nothing’s for free, it also collects the money.</p>
+<p>I developed this project using <a href="https://hyperskill.org/projects/33?category=2&track=8">Hyperskill</a>, an online platform for project-based learning.</p>
 <!--
 **GuileLiz/GuileLiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
