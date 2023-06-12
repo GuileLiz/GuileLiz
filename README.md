@@ -47,7 +47,7 @@
 </div>
 <br>
 <div align="center"> 
-  <img  style="height: 200px; display: inline-block; margin-left: auto; margin-right: auto; width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuileLiz&theme=github_dark&layout=compact&hide_border=true"  />
+  <img  style="height: 200px; display: inline-block; margin-left: auto; margin-right: auto; width: 100%;" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GuileLiz&theme=github_dark&layout=compact&hide_border=true"  />
 </div>
 
 
