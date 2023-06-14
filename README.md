@@ -51,12 +51,8 @@
 </div>
 
 
-
 <h2 align="left">🔥 Github Stats </h2>
 
-<!--
-<img style="height: 200px; display: inline-block; margin-left: auto; margin-right: auto; width: 100%;" src="https://github-readme-stats.vercel.app/api?username=GuileLiz&show_icons=true&bg_color=FFFFFF" />
--->
 <div align="center"> 
   <img src="https://streak-stats.demolab.com?user=GuileLiz&locale=en&mode=daily&theme=github_dark&layout=compact&hide_border=true" height="220" alt="streak graph"  /> 
 </div>
@@ -68,6 +64,7 @@
 </h3>
 <p>The machine works with typical products: coffee, milk, sugar, and plastic cups; if it runs out of something, it shows a notification. You can get three types of coffee: espresso, cappuccino and latte. Since nothing’s for free, it also collects the money.</p>
 <p>I developed this project using <a href="https://hyperskill.org/projects/33?category=2&track=8">Hyperskill</a>, an online platform for project-based learning.</p>
+
 <!--
 **GuileLiz/GuileLiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
