@@ -1,16 +1,16 @@
-#profile views
+<!--profile views-->
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=guileliz&label=Profile%20views&color=0e75b6&style=flat" alt="guileliz" /> </p>
-#wave gif
+<!--wave gif-->
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Engr. Guile Liz</h1>
 
 <h3 align="center">Crafting My Career One Line of Code at a Time</h3>
 
 <h2 align="left">About me</h2>
-#details about me
+<!--details about me-->
 <p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Java<br>🎯 Goals: To be backend developer<br>🎲 Fun fact: I am Civil Engineer in profession <br>📫 You can reach me at <a href="mailto:lizguile19@gmail.com">lizguile19@gmail.com</a></p>
 
 <h2 align="left">👨🏽‍💻 Tech Stack</h2>
-#Ny tech stach
+<!--Ny tech stach-->
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
@@ -36,14 +36,14 @@
 </div>
 <br>
 <div align="center"> 
-  #Percentage of programming language
+  <!--Percentage of programming language-->
   <img  style="height: 200px; display: inline-block; margin-left: auto; margin-right: auto; width: 100%;" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GuileLiz&theme=blue&layout=compact&hide_border=true"  
 </div>
 
 
 <h2 align="left">🔥 Github Stats </h2>
 <div align="center"> 
-  #github stats
+  <!--github stats-->
   <img src="https://streak-stats.demolab.com?user=GuileLiz&locale=en&mode=daily&theme=github_dark&layout=compact&hide_border=true" height="220" alt="streak graph"  /> 
 </div>
 
