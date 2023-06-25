@@ -56,7 +56,6 @@
 <p>I developed this project using <a href="https://hyperskill.org/projects/33?category=2&track=8">Hyperskill</a>, an online platform for project-based learning.</p>
 
 <!--
-**GuileLiz/GuileLiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
